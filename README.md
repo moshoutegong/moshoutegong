@@ -31,8 +31,6 @@
 | 副本资料 | [Instance Journal](https://github.com/moshoutegong/InstanceJournal) · [Dungeon Journal](https://github.com/moshoutegong/N-Dungeon-Journal-CN) |
 | 画面增强 | [体积雾与水面汉化](https://github.com/moshoutegong/coa-vfog-CN) · [Arden 高清补丁安装器](https://github.com/moshoutegong/ArdenWoW-HD-Installer-CN) · [CoA 高清整合包](https://github.com/moshoutegong/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack-CN) |
 
-也留着一份 [Ace3 中文入门文档](https://github.com/moshoutegong/Ace3.0-Pages-Chinese)，供学习插件开发时参考。
-
 ### 🐕 魔兽之外的小作品
 
 - **[Doge 软件小站](https://github.com/moshoutegong/Dogeweb)** — 汇集 DogeFetch、DogeGif、DogeRecord 等工具的介绍与下载入口。
